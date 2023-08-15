@@ -2,4 +2,4 @@
 https://ritik-basav-mit.netlify.app/
 
 ## Screenshot
-![hushVoice](https://github.com/raj-chinagundi/hackmit/blob/main/hush.png)https://github.com/raj-chinagundi/hackmit/blob/main/hush.png)
+![hushVoice](https://github.com/raj-chinagundi/hackmit/blob/main/hush.png)
